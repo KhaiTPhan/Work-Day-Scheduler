@@ -26,5 +26,4 @@ THEN the saved events persist
 
 # Areas for improvement
 * Utilising more loops would simplify the code significantly (but left as is due to time constraints for now)
-* On the small screen, the alignment of the blocks can be better
 * Improved styling can improve the appearance
