@@ -1,0 +1,40 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  text-align: right;
+
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.save{
+background-color: lightskyblue;
+border: none;
+}
+
+#currentDay{
+color: blue;
+font-weight: bold;
+
+}
+
+#block-1, #block-2, #block-3, #block-4, #block-5, #block-6, #block-7, #block-8, #block-9{
+  height: 80px;
+  
+  }
