@@ -22,6 +22,6 @@ This is a simple calendar application that allows a user to save events for each
 * Local storage and persistent data
 
 ## Screenshot
-
+![scheduler](https://user-images.githubusercontent.com/74043730/107032228-92176a80-6807-11eb-8610-ca13894f46dc.PNG)
 ## Links
 https://khaitphan.github.io/Work-Day-Scheduler/
