@@ -2,28 +2,26 @@
 
 This is a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-# Acceptance criteria
+## Key features
 
-* GIVEN I am using a daily planner to create a schedule
-* WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-* WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-* WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-* WHEN I click into a time block
-THEN I can enter an event
-* WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-* WHEN I refresh the page
-THEN the saved events persist
+* The current day is displayed at the top of the calendar
+* There are time blocks for standard business hours
+* Each time block is color-coded to indicate whether it is in the past, present, or future
+* When you click into a time block you can enter an event
+* When you click the save button for that time block then the text for that event is saved in local storage
+* When you refresh the page then the saved events persist
 
-# Key coding lessons
+## Technologies used and programming techniques
 
-* Utilsing a day/time library - in this case Moment.js
-* Local storage and persistent data
+* Moment.js
+* Bootstrap
+* JavaScript
+* HTML
+* CSS
 * jQuery
+* Local storage and persistent data
 
-# Areas for improvement
-* Utilising more loops would simplify the code significantly (but left as is due to time constraints for now)
-* Improved styling can improve the appearance
+## Screenshot
+
+## Links
+https://khaitphan.github.io/Work-Day-Scheduler/
