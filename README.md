@@ -8,9 +8,9 @@ Table of contents
 
 <!--ts-->
    * [Key features](#Key-features)
-   * [Technologies used](##-Technologies-used-and-programming-techniques)
-   * [Screenshot](##-Screenshot)
-   * [Links](##-Links)
+   * [Technologies used](#Technologies-used-and-programming-techniques)
+   * [Screenshot](#Screenshot)
+   * [Links](#Links)
 <!--te-->
 
 
