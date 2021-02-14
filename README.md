@@ -7,8 +7,8 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Key features](#Key features)
-   * [Technologies used](#Technologies used and programming techniques)
+   * [Key features](#Key-features)
+   * [Technologies used](#Technologies-used-and-programming-techniques)
    * [Screenshot](#Screenshot)
    * [Links](#Links)
 <!--te-->
